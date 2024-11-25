@@ -27,7 +27,6 @@ int main()
 		     << Jacquavius.records.at(i).description << endl
 		     << Jacquavius.records.at(i).grade << endl
 		     << Jacquavius.records.at(i).maxGrade << endl
-		     << Jacquavius.records.at(i).weight << endl;
 	}
 
   // terminate
